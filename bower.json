@@ -1,6 +1,6 @@
 {
-  "name": "coffee-strip",
-  "version": "0.1.0",
+  "name": "strip-coffee-comments",
+  "version": "0.1.1",
   "main": [
     "index.js"
   ]

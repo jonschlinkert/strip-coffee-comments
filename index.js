@@ -1,8 +1,9 @@
 /**
- * coffee-strip <https://github.com/jonschlinkert/coffee-strip>
+ * strip-coffee-comments <https://github.com/jonschlinkert/strip-coffee-comments>
  * Copyright (c) 2014 Jon Schlinkert, contributors.
  * Licensed under the MIT license.
  */
+
 
 /**
  * Strip all comments
